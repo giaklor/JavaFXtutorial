@@ -1,0 +1,6 @@
+Debug/
+.settings/
+.DS_Store
+/Release/
+gmon.out
+*~
